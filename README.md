@@ -14,6 +14,7 @@ The MVP utilizes an Arduino Uno as its microcontroller and two mini-breadboards 
 proof of concept. 
 
 Use the website https://cloud.arduino.cc to inject the code into an arduino to run. 
+Make sure to splice the slt file for printing. 
 
 ##### Contributors:
 Code & Electrical: Tavina C. </br>
