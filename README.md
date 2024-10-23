@@ -13,6 +13,8 @@ water bottle such as a Hydroflask. The drinking spout is also designed to block 
 The MVP utilizes an Arduino Uno as its microcontroller and two mini-breadboards so its size is quite substantial but works as a
 proof of concept. 
 
+Use the website https://cloud.arduino.cc to inject the code into an arduino to run. 
+
 ##### Contributors:
 Code & Electrical: Tavina C. </br>
 3D Designer: Andrea C. </br>
